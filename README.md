@@ -9,6 +9,4 @@ This project demonstrates API testing of an Employee REST API using Postman. It 
 
 ## How to run this project
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/muhit7748/EmployeeRESTAPIWithNewman.git
+-Clone the repository [Employee API Project] (https://github.com/muhit7748/EmployeeRESTAPIWithNewman.git)
