@@ -14,3 +14,20 @@ This project demonstrates API testing of an Employee REST API using Postman. It 
 ``` bash
 npm init -y
 ```
+``` bash
+npm i newman
+```
+``` bash
+npx newman run
+```
+``` bash
+npm i newman-reporter-htmlextra
+```
+
+``` bash
+Create reports.js file
+```
+
+``` bash
+node .\report.js
+```
