@@ -20,14 +20,13 @@ npm i newman
 ``` bash
 npx newman run
 ```
-``` bash
-npm i newman-reporter-htmlextra
-```
 
 ``` bash
-Create reports.js file
+reports.js
 ```
 
 ``` bash
 node .\report.js
 ```
+## Newman Report
+[report.html](https://github.com/user-attachments/files/26526483/report.html)
