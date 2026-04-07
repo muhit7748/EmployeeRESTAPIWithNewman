@@ -10,3 +10,7 @@ This project demonstrates API testing of an Employee REST API using Postman. It 
 ## API Documentation [Employee API Project](https://github.com/muhit7748/EmployeeRESTAPIWithNewman.git)
 
 ## How to run this project
+```Execute the command Sequestally```
+``` bash
+npm init -y
+```
