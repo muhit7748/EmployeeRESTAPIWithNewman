@@ -35,3 +35,6 @@ node .\report.js
 ![Newman Run Dashboard 2](https://github.com/user-attachments/assets/02e30ee9-4b22-4b2f-a6ce-b9fda00e0629)
 ![Newman Run Dashboard 3](https://github.com/user-attachments/assets/8702797a-7c5b-47ec-9fe6-e3d9bf6d0f77)
 
+## Automation Video
+https://www.loom.com/share/47e84423bee84c5298332b4b9d5e09c9
+
