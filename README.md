@@ -7,6 +7,6 @@ This project demonstrates API testing of an Employee REST API using Postman. It 
 - Newman
 - Newman HTML Reporter
 
-## How to run this project
+-API Documentation [Employee API Project](https://github.com/muhit7748/EmployeeRESTAPIWithNewman.git)
 
--Clone the repository [Employee API Project](https://github.com/muhit7748/EmployeeRESTAPIWithNewman.git)
+## How to run this project
